@@ -12,6 +12,7 @@ La aplicación sigue una **arquitectura cliente-servidor** basada en **MVC (Mode
 - **Base de datos**: Almacena información de usuarios, entrenamientos y estadísticas.
 
 **Tecnologías empleadas** 
+ 
 | Capa       | Tecnología          |
 |------------|------------------|
 | Frontend   | HTML, CSS, JavaScript |
