@@ -13,8 +13,8 @@ La aplicación sigue una **arquitectura cliente-servidor** basada en **MVC (Mode
 
 **Tecnologías empleadas** 
  
-| Capa       | Tecnología          |
-|------------|------------------|
-| Frontend   | HTML, CSS, JavaScript |
-| Backend    | PHP               |
-| Base de datos | MySQL          | 
+| Capa           | Tecnología                |
+|----------------|---------------------------|
+| Frontend       | HTML, CSS, JavaScript     |
+| Backend        | PHP                       |
+| Base de datos  | MySQL                     |
