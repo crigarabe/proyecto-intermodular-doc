@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Documentación de moonFit
+title:🌙 Documentación de moonFit
 nav_order: 1
 ---
 
