@@ -1,3 +1,9 @@
+---
+layout: default
+title: Documentación de moonFit
+nav_order: 1
+---
+
 # Índice
 
 1. [Introducción](introduccion.md)
