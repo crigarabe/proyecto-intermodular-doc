@@ -4,20 +4,5 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 show_downloads: false
-logo: img/home.png
-navigation:
-  - title: Índice
-    url: index.md
-  - title: Introducción
-    url: introduccion.md
-  - title: Instalación
-    url: instalacion.md
-  - title: Uso
-    url: uso.md
-  - title: Arquitectura
-    url: arquitectura.md
-  - title: Conclusiones
-    url: conclusiones.md
-  - title: Referencias
-    url: referencias.md
+logo: img/luna.png
 markdown: kramdown
