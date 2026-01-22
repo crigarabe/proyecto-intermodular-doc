@@ -1,3 +1,7 @@
+---
+description: Instalación
+weight: 2
+---
 # Instalación
 ---
 

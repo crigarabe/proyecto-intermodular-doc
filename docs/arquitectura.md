@@ -1,3 +1,7 @@
+---
+title: Arquitectura
+weight: 4
+---
 # Arquitectura
 ---
 

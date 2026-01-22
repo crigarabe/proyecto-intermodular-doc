@@ -1,3 +1,7 @@
+---
+description: Uso de la aplicación
+weight: 3
+---
 # Uso de la aplicación
 ---
 
