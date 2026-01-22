@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 🌙 Documentación de moonFit
+title: Documentación
 nav_order: 1
 ---
 
-# Índice
+# 🌙 Índice
 
 1. [Introducción](introduccion.md)
 2. [Instalación](instalacion.md)
