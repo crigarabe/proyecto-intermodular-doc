@@ -1,6 +1,6 @@
 ---
 title: Arquitectura
-weight: 4
+nav_order: 4
 ---
 # Arquitectura
 ---

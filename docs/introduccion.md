@@ -1,6 +1,6 @@
 ---
 title: Introducción
-weight: 1
+nav_order: 1
 ---
 # Introducción
 

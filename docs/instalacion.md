@@ -1,6 +1,6 @@
 ---
-description: Instalación
-weight: 2
+title: Instalación
+nav_order: 2
 ---
 # Instalación
 ---

@@ -1,6 +1,6 @@
 ---
-description: Uso de la aplicación
-weight: 3
+title: Uso de la aplicación
+nav_order: 3
 ---
 # Uso de la aplicación
 ---

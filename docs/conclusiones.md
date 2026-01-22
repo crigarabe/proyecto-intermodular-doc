@@ -1,6 +1,6 @@
 ---
 title: Conclusiones
-weight: 5
+nav_order: 5
 ---
 # Conclusiones
 ---
